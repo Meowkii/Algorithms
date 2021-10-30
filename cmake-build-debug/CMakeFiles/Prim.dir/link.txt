@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Prim.dir/08._Graphs/Prim.cpp.o -o Prim 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Minimum-queue.dir/02._Data_Structures/Minimum_queue.cpp.o -o Minimum-queue 

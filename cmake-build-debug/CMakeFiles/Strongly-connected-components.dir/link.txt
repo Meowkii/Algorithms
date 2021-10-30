@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Strongly-connected-components.dir/08._Graphs/Strongly_connected_components.cpp.o -o Strongly-connected-components 

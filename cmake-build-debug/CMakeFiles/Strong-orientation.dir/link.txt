@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Strong-orientation.dir/08._Graphs/Strong_orientation.cpp.o -o Strong-orientation 

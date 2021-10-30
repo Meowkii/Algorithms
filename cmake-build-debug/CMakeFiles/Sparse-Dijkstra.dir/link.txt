@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Sparse-Dijkstra.dir/08._Graphs/Sparse_dijkstra.cpp.o -o Sparse-Dijkstra 

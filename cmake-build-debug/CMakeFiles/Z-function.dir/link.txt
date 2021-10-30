@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Z-function.dir/03._String_Processing/Z_function.cpp.o -o Z-function 

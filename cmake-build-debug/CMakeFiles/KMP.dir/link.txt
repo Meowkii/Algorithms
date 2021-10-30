@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/KMP.dir/03._String_Processing/KMP.cpp.o -o KMP 

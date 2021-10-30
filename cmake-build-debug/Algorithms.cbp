@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Algorithms"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Prim">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Prim" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Prim"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Prim/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Prim" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Prim/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Floyd-Warshall">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Floyd-Warshall" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Floyd-Warshall"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Floyd-Warshall/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Floyd-Warshall" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Floyd-Warshall/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DEsopo-Pape">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/DEsopo-Pape" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 DEsopo-Pape"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DEsopo-Pape/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/DEsopo-Pape" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 DEsopo-Pape/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KMP">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/KMP" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 KMP"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KMP/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/KMP" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 KMP/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sparse-table">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Sparse-table" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sparse-table"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sparse-table/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Sparse-table" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sparse-table/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bridges">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Bridges" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bridges"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bridges/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Bridges" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bridges/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hash">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Hash" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Hash"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hash/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Hash" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Hash/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Strongly-connected-components">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Strongly-connected-components" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Strongly-connected-components"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Strongly-connected-components/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Strongly-connected-components" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Strongly-connected-components/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DFS">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/DFS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 DFS"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DFS/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/DFS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 DFS/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Minimum-stack">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Minimum-stack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Minimum-stack"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Minimum-stack/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Minimum-stack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Minimum-stack/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BFS">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/BFS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 BFS"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BFS/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/BFS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 BFS/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rabin-Karp">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Rabin-Karp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Rabin-Karp"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rabin-Karp/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Rabin-Karp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Rabin-Karp/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Fenwick-tree">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Fenwick-tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Fenwick-tree"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Fenwick-tree/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Fenwick-tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Fenwick-tree/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Minimum-queue">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Minimum-queue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Minimum-queue"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Minimum-queue/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Minimum-queue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Minimum-queue/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dijkstra">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Dijkstra" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dijkstra"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dijkstra/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Dijkstra" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dijkstra/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Connected-components">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Connected-components" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Connected-components"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Connected-components/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Connected-components" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Connected-components/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Z-function">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Z-function" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Z-function"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Z-function/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Z-function" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Z-function/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cutpoints">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Cutpoints" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cutpoints"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cutpoints/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Cutpoints" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cutpoints/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Strong-orientation">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Strong-orientation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Strong-orientation"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Strong-orientation/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Strong-orientation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Strong-orientation/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sparse-Dijkstra">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Sparse-Dijkstra" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sparse-Dijkstra"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sparse-Dijkstra/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Sparse-Dijkstra" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sparse-Dijkstra/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Binary-exponentiation">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Binary-exponentiation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Binary-exponentiation"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Binary-exponentiation/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Binary-exponentiation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Binary-exponentiation/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bellman-Ford">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Bellman-Ford" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bellman-Ford"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bellman-Ford/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Bellman-Ford" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bellman-Ford/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algorithms">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Algorithms" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algorithms"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algorithms/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Algorithms" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algorithms/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Improved-Bellman-Ford">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Improved-Bellman-Ford" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Improved-Bellman-Ford"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Improved-Bellman-Ford/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/Improved-Bellman-Ford" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Improved-Bellman-Ford/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0-1-BFS">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/0-1-BFS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 0-1-BFS"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0-1-BFS/fast">
+				<Option output="/home/meowkii/projects/Algorithms/cmake-build-debug/0-1-BFS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/meowkii/projects/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 0-1-BFS/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/meowkii/projects/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/meowkii/projects/Algorithms/01. Algebra/Binary exponentiation.cpp">
+			<Option target="Binary-exponentiation"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/02. Data Structures/Fenwick tree.cpp">
+			<Option target="Fenwick-tree"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/02. Data Structures/Minimum queue.cpp">
+			<Option target="Minimum-queue"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/02. Data Structures/Minimum stack.cpp">
+			<Option target="Minimum-stack"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/02. Data Structures/Sparse table.cpp">
+			<Option target="Sparse-table"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/03. String Processing/Hash.cpp">
+			<Option target="Hash"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/03. String Processing/KMP.cpp">
+			<Option target="KMP"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/03. String Processing/Rabin-Karp.cpp">
+			<Option target="Rabin-Karp"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/03. String Processing/Z function.cpp">
+			<Option target="Z-function"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/0-1 BFS.cpp">
+			<Option target="0-1-BFS"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/BFS.cpp">
+			<Option target="BFS"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/Bellman-Ford.cpp">
+			<Option target="Bellman-Ford"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/Bridges.cpp">
+			<Option target="Bridges"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/Connected components.cpp">
+			<Option target="Connected-components"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/Cutpoints.cpp">
+			<Option target="Cutpoints"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/DFS.cpp">
+			<Option target="DFS"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/Dijkstra.cpp">
+			<Option target="Dijkstra"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/D´Esopo-Pape.cpp">
+			<Option target="DEsopo-Pape"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/Floyd-Warshall.cpp">
+			<Option target="Floyd-Warshall"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/Improved Bellman Ford.cpp">
+			<Option target="Improved-Bellman-Ford"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/Prim.cpp">
+			<Option target="Prim"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/Sparse dijkstra.cpp">
+			<Option target="Sparse-Dijkstra"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/Strong orientation.cpp">
+			<Option target="Strong-orientation"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/08. Graphs/Strongly connected components.cpp">
+			<Option target="Strongly-connected-components"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/main.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/meowkii/projects/Algorithms/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

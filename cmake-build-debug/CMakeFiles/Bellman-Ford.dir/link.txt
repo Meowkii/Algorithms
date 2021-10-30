@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Bellman-Ford.dir/08._Graphs/Bellman-Ford.cpp.o -o Bellman-Ford 

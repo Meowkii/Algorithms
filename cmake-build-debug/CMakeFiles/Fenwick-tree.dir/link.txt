@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Fenwick-tree.dir/02._Data_Structures/Fenwick_tree.cpp.o -o Fenwick-tree 
